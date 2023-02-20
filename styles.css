@@ -1,0 +1,21 @@
+.FieldInfo {
+  color: black;
+  font-weight: bold;
+  font-family: Bitter, Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+
+body {
+  background: url("uploads/blu.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+  #intro {
+    margin-top: -58.59px;
+  }
+}
