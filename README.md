@@ -31,7 +31,7 @@ How to Run:
 1. Install XAMPP (or any other similar server package) on your machine.
 2. Clone this repository into your htdocs directory in the XAMPP installation.
 3. Create a new database in MySQL and import the provided blogdatabase.sql file to create the necessary tables and data.
-4. Open the project in your web browser by navigating to http://localhost/Blog_WebProject.
+4. Open the project in your web browser by navigating to http://localhost/Blog_Website.
 5. The home page will display some of the latest blogs. You can go to the login page form where you can enter your credentials to log in. If you haven't registered yet, there is a link to the registration page.
 Once logged in, you can access different views depending on your role (admin or user). The admin panel is accessible only to users with admin privileges.
 
